@@ -1,5 +1,5 @@
 # MineSweeper
-Watch the Recording #2 Video for a demonstration. <br>
+Watch the Recording #2 Video (or this youtube link https://youtu.be/7sVDzO25vYM?si=9PRntHxirNMXvp-c) for a demonstration. <br>
 This is a Python program that generates minesweeper puzzles. It can then solve these puzzles by generating and solving Boolean algebraic expressions. This program was developed using the principles of object-oriented programming.<br>
 <h2>Running</h2>
 To run the program, run MinesweeperRunner.py. You will also have to install pygame and sympy, which can be done using pip.<br>
